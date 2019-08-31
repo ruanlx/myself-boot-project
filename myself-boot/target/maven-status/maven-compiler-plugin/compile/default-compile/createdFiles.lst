@@ -1,0 +1,7 @@
+com\ruanlx\boot\GlobalUniqueId.class
+com\ruanlx\boot\Assert.class
+com\ruanlx\boot\validation\ValidationResult.class
+com\ruanlx\boot\spring\ApplicationContextProvider.class
+com\ruanlx\boot\spring\EnvironmentProvider.class
+com\ruanlx\boot\validation\Validators.class
+com\ruanlx\boot\validation\ValidationResults.class
