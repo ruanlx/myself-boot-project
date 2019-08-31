@@ -7,3 +7,9 @@
 *.iml
 out
 gen
+logs
+target
+# Eclipse project files
+.project
+.classpth
+.settings
