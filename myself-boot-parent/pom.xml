@@ -12,13 +12,12 @@
 
     <groupId>com.ruanlx.boot</groupId>
     <artifactId>myself-boot-parent</artifactId>
-    <version>1.0.0.SNAPSHOT</version>
+    <version>${myself-boot-project.version}</version>
     <packaging>pom</packaging>
     <name>myself-boot-parent</name>
     <description>myself-boot-parent pom统一管理</description>
 
     <properties>
-        <myself-boot.version>1.0.0.SNAPSHOT</myself-boot.version>
         <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
         <mockito.version>2.18.3</mockito.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
@@ -56,17 +55,17 @@
             <dependency>
                 <groupId>com.ruanlx.boot</groupId>
                 <artifactId>myself-boot</artifactId>
-                <version>${myself-boot.version}</version>
+                <version>${myself-boot-project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.ruanlx.boot</groupId>
                 <artifactId>myself-boot-model</artifactId>
-                <version>${myself-boot.version}</version>
+                <version>${myself-boot-project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.ruanlx.boot</groupId>
                 <artifactId>myself-boot-toolkit</artifactId>
-                <version>${myself-boot.version}</version>
+                <version>${myself-boot-project.version}</version>
             </dependency>
             <!-- 三方包 -->
             <!-- Apache Commons -->
