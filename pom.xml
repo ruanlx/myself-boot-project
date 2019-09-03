@@ -12,11 +12,10 @@
     <description>myself-boot-project</description>
 
     <modules>
-        <module>myself-boot</module>
         <module>myself-boot-parent</module>
-        <module>myself-boot-autoconfigure</module>
         <module>myself-boot-toolkit</module>
         <module>myself-boot-model</module>
+        <module>myself-boot</module>
     </modules>
 
     <properties>
@@ -24,11 +23,4 @@
         <main.basedir>${basedir}</main.basedir>
     </properties>
 
-    <repositories>
-        <repository>
-            <id>alimaven</id>
-            <name>aliyun maven</name>
-            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
-        </repository>
-    </repositories>
 </project>

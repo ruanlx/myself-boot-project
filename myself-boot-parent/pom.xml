@@ -60,11 +60,6 @@
             </dependency>
             <dependency>
                 <groupId>com.ruanlx.boot</groupId>
-                <artifactId>myself-boot-autoconfigure</artifactId>
-                <version>${myself-boot.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.ruanlx.boot</groupId>
                 <artifactId>myself-boot-model</artifactId>
                 <version>${myself-boot.version}</version>
             </dependency>
