@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ruanlx.boot.autoconfigure.example.ExampleAutoConfiguration

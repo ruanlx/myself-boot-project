@@ -11,19 +11,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ruanlx.boot</groupId>
-    <artifactId>druid-spring-boot-starter</artifactId>
-    <version>${myself.boot.version}</version>
-    <name>druid-spring-boot-starter</name>
-    <description>druid-spring-boot-starter druid数据源</description>
+    <artifactId>example-spring-boot-starter</artifactId>
+    <version>1.0.0.SNAPSHOT</version>
+    <name>example-spring-boot-starter</name>
+    <description>example-spring-boot-starter spring boot starter 自定义启动器示例</description>
 
     <dependencies>
         <dependency>
-            <groupId>com.ruanlx.boot</groupId>
-            <artifactId>myself-boot</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>druid</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -31,4 +31,5 @@
             <optional>true</optional>
         </dependency>
     </dependencies>
+
 </project>

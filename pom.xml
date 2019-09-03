@@ -17,6 +17,7 @@
         <module>myself-boot-model</module>
         <module>myself-boot</module>
         <module>druid-spring-boot-starter</module>
+        <module>example-spring-boot-starter</module>
     </modules>
 
     <properties>

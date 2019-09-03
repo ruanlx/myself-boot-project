@@ -5,14 +5,14 @@
     <parent>
         <artifactId>myself-boot-parent</artifactId>
         <groupId>com.ruanlx.boot</groupId>
-        <version>${myself-boot-project.version}</version>
+        <version>${myself.boot.version}</version>
         <relativePath>../myself-boot-parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ruanlx.boot</groupId>
     <artifactId>myself-boot-toolkit</artifactId>
-    <version>${myself-boot-project.version}</version>
+    <version>${myself.boot.version}</version>
     <name>myself-boot-toolkit</name>
     <description>myself-boot-toolkit 工具包</description>
 
