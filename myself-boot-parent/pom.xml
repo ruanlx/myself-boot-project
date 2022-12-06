@@ -33,7 +33,7 @@
         <commons-pool.version>1.6</commons-pool.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-validator.version>1.6</commons-validator.version>
-        <ccommons-net.version>3.6</ccommons-net.version>
+        <ccommons-net.version>3.9.0</ccommons-net.version>
         <commons-email.version>1.5</commons-email.version>
         <guava.version>28.0-jre</guava.version>
         <mybatis.version>3.4.5</mybatis.version>
